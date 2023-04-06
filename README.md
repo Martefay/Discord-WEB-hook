@@ -1,1 +1,1 @@
-# Discord-WEB-hook Сева черный
+# Discord-WEB-hook Сева черны
